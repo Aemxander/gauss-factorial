@@ -1,6 +1,6 @@
 #gauss factorial of a number n is defined as the product of all positive numbers <= n that are relatively prime to n
 
-#project eulur problem
+#project euler problem
 #G(n) =
 #n
 #pi notation -> gauss factorial(i)
@@ -90,7 +90,7 @@ def FindGaussFactorial(value):
 
 #gauss factorial of a number n is defined as the product of all positive numbers <= n that are relatively prime to n
 
-#project eulur problem
+#project euler problem
 #G(n) =
 #n
 #pi notation -> gauss factorial(i)
